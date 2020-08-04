@@ -5,6 +5,7 @@ description: "Implement user identity and management in a React application with
 technologies:
   - { label: "ORY Kratos", url: "https://github.com/ory/kratos" }
   - { label: "React", url: "https://github.com/facebook/react" }
+Paradigm: "Authentication"
 ---
 - **What is Kratos**
 
@@ -31,7 +32,7 @@ Kratos includes many typical features out of the box:
 
 - Scale
 
-- Easy to deploy: 
+- Easy to deploy:
   - Go binary or Docker image
   - Compiled binary has no system or library dependencies
   - Less than 20MB
@@ -41,7 +42,7 @@ Kratos includes many typical features out of the box:
 
 - Written in Go
 - Requires a relational database, currently SQLite, PostgreSQL, MySQL and CockroachDB are supported
-  - Hosted solution such as Google Cloud or AWS is recommended 
+  - Hosted solution such as Google Cloud or AWS is recommended
 
 - Pros
 
@@ -52,7 +53,7 @@ Kratos includes many typical features out of the box:
 
 - Cons
 
-- Risk: 
+- Risk:
   - Small project
   - Project has 1,2000 stars at the time of writing
   - Big players using ORY products in production such as Segment.io and Arduino
