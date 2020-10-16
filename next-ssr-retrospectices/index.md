@@ -1,0 +1,11 @@
+---
+title: "Retrospective: Next.js Server Side Rendering"
+---
+- Do you really need to SSR?
+- Use response compression - https://nextjs.org/docs/api-reference/next.config.js/compression
+- Measure performance (hydration, bundle sizes, lighthouse)
+- `getInitialProps` optimisation is vital
+- Apollo cache key optimisation is vital
+- Use style components props "very sparingly"
+- Memory outside a component is retained over requests
+- Never expose secrets
