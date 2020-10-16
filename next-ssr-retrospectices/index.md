@@ -8,4 +8,6 @@ title: "Retrospective: Next.js Server Side Rendering"
 - Apollo cache key optimisation is vital
 - Use style components props "very sparingly"
 - Memory outside a component is retained over requests
+- End to end tests with a mock server
+- End to end tests on production build
 - Never expose secrets
