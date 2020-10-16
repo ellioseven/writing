@@ -10,4 +10,5 @@ title: "Retrospective: Next.js Server Side Rendering"
 - Memory outside a component is retained over requests
 - End to end tests with a mock server
 - End to end tests on production build
+- Build a client notification system early on
 - Never expose secrets
