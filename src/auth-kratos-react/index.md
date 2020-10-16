@@ -5,7 +5,7 @@ description: "Implement user identity and management in a React application with
 technologies:
   - { label: "ORY Kratos", url: "https://github.com/ory/kratos" }
   - { label: "React", url: "https://github.com/facebook/react" }
-Paradigm: "Authentication"
+paradigm: "Authentication"
 ---
 - **What is Kratos**
 
